@@ -4,7 +4,6 @@ Código para trabajar y procesar los datos de la práctica observacional 2022 de
  # Estructura del projecto
 
 ```
-../
 ├── data/
 ├── src/
 └── output/
