@@ -32,7 +32,7 @@ han de descargarse localmente y ponerlos dentro de `data/`.
   + numpy
   + pandas
   + matplotlib
+  + pandas_ods_reader
 - R >= 4.0
   + data.table
   + magrittr
-  + pandas_ods_reader
