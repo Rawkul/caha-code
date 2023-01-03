@@ -1,18 +1,5 @@
 # Repositorio código prácticas CAHA 2022
 Código para trabajar y procesar los datos de la práctica observacional 2022 del observatorio Calar Alto, así como para realizar ajustes de curvas de luz con phoebe.
-
-# Requisitos
-- python >= 3.6
-  + astropy
-  + ccdproc
-  + photutils
-  + numpy
-  + pandas
-  + matplotlib
-- R >= 4.0
-  + data.table
-  + magrittr
-  + pandas_ods_reader
   
  # Estructura del projecto
 
@@ -36,3 +23,17 @@ Los scripts han de ejecutarse desde este directorio base del repositorio para qu
 
 Por último, los datos fits no se proporcionan con el directorio por ser muy pesados,
 han de descargarse localmente y ponerlos dentro de `data/`.
+
+
+# Requisitos
+- python >= 3.6
+  + astropy
+  + ccdproc
+  + photutils
+  + numpy
+  + pandas
+  + matplotlib
+- R >= 4.0
+  + data.table
+  + magrittr
+  + pandas_ods_reader
