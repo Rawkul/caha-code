@@ -125,6 +125,3 @@ phot_data.to_csv(OUTPUT_FILE)
 
 print("Data stored in " + OUTPUT_FILE)
 print(" (:< END!!!!!  >:D")
-
-import os
-os.system("poweroff")
